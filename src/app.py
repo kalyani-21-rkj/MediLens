@@ -5,9 +5,9 @@ import matplotlib.pyplot as plt
 from wordcloud import WordCloud
 from sklearn.feature_extraction.text import TfidfVectorizer
 import nltk
-from config import AUDIO_PROCESSED_DIR, SEGMENTS_DIR
+from config import AUDIO_PROCESSED_DIR, TRANSCRIPTS_DIR,SEGMENTS_DIR
 
-nltk.data.path.append(r"C:\Users\USER\nltk_data")
+#nltk.data.path.append(r"C:\Users\USER\nltk_data")
 
 import os
 st.write(os.listdir())
@@ -218,24 +218,28 @@ with tab1:
     st.audio(open(audio_path, "rb").read())
 
     expected_json = os.path.join(
+    SEGMENTS_DIR,
+    f"{os.path.basename(audio_path)}_segments.json"
+)
+
+json_files = [
+    f for f in os.listdir(SEGMENTS_DIR)
+    if f.endswith("_segments.json")
+]
+
+if os.path.exists(expected_json):
+    json_path = expected_json
+elif json_files:
+    json_path = os.path.join(
         SEGMENTS_DIR,
-        f"{os.path.basename(audio_path)}_segments.json"
+        st.selectbox("Select transcript JSON", json_files)
     )
+else:
+    st.error("No transcript JSONs found")
+    st.stop()
 
-    json_files = [f for f in os.listdir(SEGMENTS_DIR) if f.endswith(".json")]
-
-    if os.path.exists(expected_json):
-        json_path = expected_json
-    elif json_files:
-        json_path = os.path.join(
-            SEGMENTS_DIR,
-            st.selectbox("Select transcript JSON", json_files)
-        )
-    else:
-        st.error("No transcript JSONs found")
-        st.stop()
-
-    segments = json.load(open(json_path, "r", encoding="utf-8"))
+with open(json_path, "r", encoding="utf-8") as f:
+    segments = json.load(f)
 
     c1, c2, c3 = st.columns(3)
     show_full = c1.button("📄 Full Transcription")
