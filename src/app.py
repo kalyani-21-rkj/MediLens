@@ -9,6 +9,9 @@ from config import AUDIO_PROCESSED_DIR, SEGMENTS_DIR
 
 nltk.data.path.append(r"C:\Users\USER\nltk_data")
 
+import os
+st.write(os.listdir())
+
 # ---------------- HELPERS ----------------
 POS = {
     "improve","improvement","improving","recovery","recover","recovered",
@@ -219,7 +222,7 @@ with tab1:
         f"{os.path.basename(audio_path)}_segments.json"
     )
 
-    json_files = [f for f in os.listdir(SEGMENTS_DIR) if f.endswith("_segments.json")]
+    json_files = [f for f in os.listdir(SEGMENTS_DIR) if f.endswith(".json")]
 
     if os.path.exists(expected_json):
         json_path = expected_json
