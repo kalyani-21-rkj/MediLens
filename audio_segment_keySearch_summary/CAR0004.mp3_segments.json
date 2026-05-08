@@ -1,0 +1,352 @@
+[
+    {
+        "segment_id": 1,
+        "start_time": 0.0,
+        "end_time": 17.93,
+        "text": " What brings you in here today? I'm just having this really sharp being in my chest and I'm scared. I think I'm having a heart attack. Oh, wow. That must be really scary.",
+        "keywords": [
+            "having",
+            "really",
+            "think",
+            "sharp",
+            "wow"
+        ],
+        "summary": "I'm just having this really sharp being in my chest and I'm scared. I think I'm having a heart attack."
+    },
+    {
+        "segment_id": 2,
+        "start_time": 17.93,
+        "end_time": 35.86,
+        "text": "When did this pain start? It started about three days ago. Three days ago? Okay. And where exactly in your chest do you feel it?",
+        "keywords": [
+            "days",
+            "ago",
+            "start",
+            "started",
+            "pain"
+        ],
+        "summary": "When did this pain start? And where exactly in your chest do you feel it?"
+    },
+    {
+        "segment_id": 3,
+        "start_time": 35.86,
+        "end_time": 53.8,
+        "text": "It's kind of right here, right over my heart, I think. That's where it's the worst. Okay. Okay, and what kind of pain is it? Is it more like a dull pressure pain or is it a sharp pain?",
+        "keywords": [
+            "pain",
+            "right",
+            "okay",
+            "kind",
+            "sharp"
+        ],
+        "summary": "It's kind of right here, right over my heart, I think. Is it more like a dull pressure pain or is it a sharp pain?"
+    },
+    {
+        "segment_id": 4,
+        "start_time": 53.8,
+        "end_time": 71.73,
+        "text": "How would you describe it? I'd say it's a sharp pain. A sharp pain? Mm-hmm. And so it started three days ago.",
+        "keywords": [
+            "sharp",
+            "pain",
+            "started",
+            "say",
+            "mm"
+        ],
+        "summary": "I'd say it's a sharp pain. And so it started three days ago."
+    },
+    {
+        "segment_id": 5,
+        "start_time": 71.73,
+        "end_time": 89.66,
+        "text": "Has it been coming and going or has it been constant? It just lasts for a few seconds and then it goes away. Okay. And does the pain come on when you're doing any activities or when does the pain usually come on? It's usually worse when I'm coughing or lying down.",
+        "keywords": [
+            "usually",
+            "pain",
+            "come",
+            "does",
+            "worse"
+        ],
+        "summary": "It just lasts for a few seconds and then it goes away. And does the pain come on when you're doing any activities or when does the pain usually come on?"
+    },
+    {
+        "segment_id": 6,
+        "start_time": 89.66,
+        "end_time": 107.59,
+        "text": "Yeah. Okay. Okay. And does it improve with any positional changes at all or anything that you do that doesn't help? When I lean forward, it actually does get better.",
+        "keywords": [
+            "okay",
+            "does",
+            "positional",
+            "yeah",
+            "lean"
+        ],
+        "summary": "And does it improve with any positional changes at all or anything that you do that doesn't help? When I lean forward, it actually does get better."
+    },
+    {
+        "segment_id": 7,
+        "start_time": 107.59,
+        "end_time": 125.52,
+        "text": "I think about it, yeah. Okay. And has this ever happened to you before? No, no it hasn't. Okay.",
+        "keywords": [
+            "okay",
+            "yeah",
+            "think",
+            "hasn",
+            "happened"
+        ],
+        "summary": "I think about it, yeah. Okay."
+    },
+    {
+        "segment_id": 8,
+        "start_time": 125.52,
+        "end_time": 143.45,
+        "text": "And on a scale of one to 10, one being a least amount of pain you felt and being the worst, how much would you rate it? Let's say I was six out of 10. Okay. And does the pain move anywhere in your chest or does it stay in the same spot? Yeah, I think it kind of goes to my neck sometimes.",
+        "keywords": [
+            "10",
+            "pain",
+            "does",
+            "yeah",
+            "worst"
+        ],
+        "summary": "And on a scale of one to 10, one being a least amount of pain you felt and being the worst, how much would you rate it? Yeah, I think it kind of goes to my neck sometimes."
+    },
+    {
+        "segment_id": 9,
+        "start_time": 143.45,
+        "end_time": 161.39,
+        "text": "Okay. And do you have any other symptoms? Like do you have any shoulders of breath, dizziness, anything like that? No, I don't. Any, okay.",
+        "keywords": [
+            "okay",
+            "like",
+            "symptoms",
+            "shoulders",
+            "don"
+        ],
+        "summary": "Like do you have any shoulders of breath, dizziness, anything like that? Any, okay."
+    },
+    {
+        "segment_id": 10,
+        "start_time": 161.39,
+        "end_time": 179.32,
+        "text": "Any palpitations? Nope. Okay. And I don't know that, have you been having any other symptoms at all besides the pain? No, no, nothing else.",
+        "keywords": [
+            "symptoms",
+            "palpitations",
+            "pain",
+            "okay",
+            "nope"
+        ],
+        "summary": "Okay. And I don't know that, have you been having any other symptoms at all besides the pain?"
+    },
+    {
+        "segment_id": 11,
+        "start_time": 179.32,
+        "end_time": 197.25,
+        "text": "That's it, just have these sharp episodes of pain that last a couple of seconds. Have you tried like any medications that have helped the pain? Yeah, I took some, I took some Tylenol and that did help. Okay. I took it once yesterday.",
+        "keywords": [
+            "took",
+            "pain",
+            "yesterday",
+            "tylenol",
+            "yeah"
+        ],
+        "summary": "That's it, just have these sharp episodes of pain that last a couple of seconds. Have you tried like any medications that have helped the pain?"
+    },
+    {
+        "segment_id": 12,
+        "start_time": 197.25,
+        "end_time": 215.18,
+        "text": "All right. Any recent injuries to the area? Like you have falls or anything like that? No, no, I haven't. Okay.",
+        "keywords": [
+            "like",
+            "right",
+            "recent",
+            "okay",
+            "injuries"
+        ],
+        "summary": "Any recent injuries to the area? Like you have falls or anything like that?"
+    },
+    {
+        "segment_id": 13,
+        "start_time": 215.18,
+        "end_time": 233.11,
+        "text": "Any headaches and all your vomiting, fever, or chills, any of those symptoms? Nope. Any cough, runny nose, any viral symptoms? No, well, not right now, but I did have, I did have a flu last week. I had a fever, I had a runny nose.",
+        "keywords": [
+            "runny",
+            "symptoms",
+            "fever",
+            "did",
+            "nose"
+        ],
+        "summary": "Any headaches and all your vomiting, fever, or chills, any of those symptoms? Any cough, runny nose, any viral symptoms?"
+    },
+    {
+        "segment_id": 14,
+        "start_time": 233.11,
+        "end_time": 251.04,
+        "text": "I did have a bit of a cough and I was feeling super tired, but not anymore. Okay. Okay. And have you at all had any dizziness or have you fainted at all? Nope.",
+        "keywords": [
+            "okay",
+            "tired",
+            "super",
+            "nope",
+            "feeling"
+        ],
+        "summary": "I did have a bit of a cough and I was feeling super tired, but not anymore. And have you at all had any dizziness or have you fainted at all?"
+    },
+    {
+        "segment_id": 15,
+        "start_time": 251.04,
+        "end_time": 268.98,
+        "text": "Okay. Have you been noticing any kind of weakness or numbness? Nope. Nope? Okay.",
+        "keywords": [
+            "okay",
+            "nope",
+            "weakness",
+            "numbness",
+            "noticing"
+        ],
+        "summary": "Have you been noticing any kind of weakness or numbness? Okay."
+    },
+    {
+        "segment_id": 16,
+        "start_time": 268.98,
+        "end_time": 286.91,
+        "text": "In terms of your post-medical history, do you have any medical conditions like diabetes, well-pressed for other diagnosis? No, I'm a pretty healthy 25-year-old. Okay. And do you take any medications? I sometimes take Tylenol.",
+        "keywords": [
+            "medical",
+            "year",
+            "tylenol",
+            "pretty",
+            "terms"
+        ],
+        "summary": "In terms of your post-medical history, do you have any medical conditions like diabetes, well-pressed for other diagnosis? No, I'm a pretty healthy 25-year-old."
+    },
+    {
+        "segment_id": 17,
+        "start_time": 286.91,
+        "end_time": 304.84,
+        "text": "Okay. And any allergies at all? Nope. Okay. And have any previous surgeries?",
+        "keywords": [
+            "okay",
+            "surgeries",
+            "previous",
+            "nope",
+            "allergies"
+        ],
+        "summary": "Okay. And have any previous surgeries?"
+    },
+    {
+        "segment_id": 18,
+        "start_time": 304.84,
+        "end_time": 322.77,
+        "text": "No, no, no surgeries. Do you have any family history of any heart conditions or any cancer or anything like that? Yeah. My father, he had a heart attack two weeks ago and he passed away. And I'm worried I'm having heart attack too.",
+        "keywords": [
+            "heart",
+            "attack",
+            "weeks",
+            "yeah",
+            "surgeries"
+        ],
+        "summary": "Do you have any family history of any heart conditions or any cancer or anything like that? My father, he had a heart attack two weeks ago and he passed away."
+    },
+    {
+        "segment_id": 19,
+        "start_time": 322.77,
+        "end_time": 340.7,
+        "text": "It was just two weeks ago? Yeah. So sorry to hear that. And it must be really difficult time for you right now. So you're worried you might be having a heart attack as well?",
+        "keywords": [
+            "yeah",
+            "worried",
+            "weeks",
+            "time",
+            "sorry"
+        ],
+        "summary": "And it must be really difficult time for you right now. So you're worried you might be having a heart attack as well?"
+    },
+    {
+        "segment_id": 20,
+        "start_time": 340.7,
+        "end_time": 358.64,
+        "text": "Yeah. Okay, so we can definitely do some tests and see what's going on. I just have a few more questions and then I'll just get to some of the management and what we'll be doing for you in the future. So currently right now, do you work at all? No, I'm a student.",
+        "keywords": [
+            "ll",
+            "just",
+            "yeah",
+            "student",
+            "right"
+        ],
+        "summary": "Okay, so we can definitely do some tests and see what's going on. I just have a few more questions and then I'll just get to some of the management and what we'll be doing for you in the future."
+    },
+    {
+        "segment_id": 21,
+        "start_time": 358.64,
+        "end_time": 376.57,
+        "text": "I, well, it's part time job, I do work at school. Okay. And where are you a student? What do you do? I'm studying engineering at Western.",
+        "keywords": [
+            "work",
+            "western",
+            "time",
+            "studying",
+            "student"
+        ],
+        "summary": "I, well, it's part time job, I do work at school. I'm studying engineering at Western."
+    },
+    {
+        "segment_id": 22,
+        "start_time": 376.57,
+        "end_time": 394.5,
+        "text": "All right. And currently, where do you live? Do you live in the student housing? The apartment? I live in my parents.",
+        "keywords": [
+            "live",
+            "right",
+            "student",
+            "parents",
+            "housing"
+        ],
+        "summary": "Do you live in the student housing? I live in my parents."
+    },
+    {
+        "segment_id": 23,
+        "start_time": 394.5,
+        "end_time": 412.43,
+        "text": "Well, my mom now. In a house. And do you drink at all alcohol? I drink occasionally, maybe one or two drinks on the weekends. And any recreational drug use like marijuana or cocaine?",
+        "keywords": [
+            "drink",
+            "weekends",
+            "recreational",
+            "occasionally",
+            "mom"
+        ],
+        "summary": "I drink occasionally, maybe one or two drinks on the weekends. And any recreational drug use like marijuana or cocaine?"
+    },
+    {
+        "segment_id": 24,
+        "start_time": 412.43,
+        "end_time": 430.36,
+        "text": "No. And do you smoke? No. All right, so those are all the questions we had for you today and yeah, it must be really difficult and scary for you right now. We'll make sure to get to the bottom of this and see what's going on.",
+        "keywords": [
+            "right",
+            "yeah",
+            "sure",
+            "today",
+            "smoke"
+        ],
+        "summary": "All right, so those are all the questions we had for you today and yeah, it must be really difficult and scary for you right now. We'll make sure to get to the bottom of this and see what's going on."
+    },
+    {
+        "segment_id": 25,
+        "start_time": 430.36,
+        "end_time": 448.29,
+        "text": "So what we can do is get you an ECG to see how your heart is functioning and then see getting the blood work we need in the future. But yeah, right now, let's say try not to worry too much about it right now and see what some of those tests come back. Thank you. So yeah, you're welcome.",
+        "keywords": [
+            "yeah",
+            "right",
+            "worry",
+            "work",
+            "try"
+        ],
+        "summary": "So what we can do is get you an ECG to see how your heart is functioning and then see getting the blood work we need in the future. But yeah, right now, let's say try not to worry too much about it right now and see what some of those tests come back."
+    }
+]

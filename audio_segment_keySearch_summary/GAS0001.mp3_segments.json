@@ -1,0 +1,417 @@
+[
+    {
+        "segment_id": 1,
+        "start_time": 0.0,
+        "end_time": 18.84,
+        "text": " I will bring Stephen today. I've just been feeling, ah, like, very nausea for, it feels like all the time right now. Hmm. When did this start? It's been over a week.",
+        "keywords": [
+            "like",
+            "week",
+            "today",
+            "ve",
+            "stephen"
+        ],
+        "summary": " I will bring Stephen today. I've just been feeling, ah, like, very nausea for, it feels like all the time right now."
+    },
+    {
+        "segment_id": 2,
+        "start_time": 18.84,
+        "end_time": 37.69,
+        "text": "Maybe not quite two weeks, but like around, yeah. Maybe like nine days. And, is it, do you always have a sensation of nausea or is it related, or does it sort of come and go? I think it's worse just smelling something really bad and it's worse in the morning. But I feel like it's always kind of there.",
+        "keywords": [
+            "like",
+            "maybe",
+            "worse",
+            "yeah",
+            "weeks"
+        ],
+        "summary": "And, is it, do you always have a sensation of nausea or is it related, or does it sort of come and go? I think it's worse just smelling something really bad and it's worse in the morning."
+    },
+    {
+        "segment_id": 3,
+        "start_time": 37.69,
+        "end_time": 56.53,
+        "text": "I see. Okay. Have you had any vomiting? Yeah, like, yeah, like a lot of days, I'll throw up like once a twice. Hmm.",
+        "keywords": [
+            "like",
+            "yeah",
+            "vomiting",
+            "twice",
+            "okay"
+        ],
+        "summary": "Yeah, like, yeah, like a lot of days, I'll throw up like once a twice. Hmm."
+    },
+    {
+        "segment_id": 4,
+        "start_time": 56.53,
+        "end_time": 75.37,
+        "text": "And this has all been over the past week, a week, two weeks or so? Yeah. Hmm. Okay. Any other symptoms that you have?",
+        "keywords": [
+            "week",
+            "yeah",
+            "weeks",
+            "symptoms",
+            "past"
+        ],
+        "summary": "And this has all been over the past week, a week, two weeks or so? Any other symptoms that you have?"
+    },
+    {
+        "segment_id": 5,
+        "start_time": 75.37,
+        "end_time": 94.22,
+        "text": "Ah, no, just, well, like, I feel like I've had to pee a lot more. Um, I don't think that's like related. I think maybe I've just been drinking a lot of water. Hmm. So, yeah.",
+        "keywords": [
+            "like",
+            "ve",
+            "lot",
+            "think",
+            "just"
+        ],
+        "summary": "Ah, no, just, well, like, I feel like I've had to pee a lot more. I think maybe I've just been drinking a lot of water."
+    },
+    {
+        "segment_id": 6,
+        "start_time": 94.22,
+        "end_time": 113.06,
+        "text": "How often do you have to pee? I don't know. I don't know. I don't know. I don't know.",
+        "keywords": [
+            "know",
+            "don",
+            "pee"
+        ],
+        "summary": "I don't know. I don't know."
+    },
+    {
+        "segment_id": 7,
+        "start_time": 113.06,
+        "end_time": 131.91,
+        "text": "I don't know. I don't know. I don't know. I don't know. I don't know.",
+        "keywords": [
+            "know",
+            "don"
+        ],
+        "summary": "I don't know. I don't know."
+    },
+    {
+        "segment_id": 8,
+        "start_time": 131.91,
+        "end_time": 150.75,
+        "text": "I don't know. How often do you have to pee? Um, like, I feel like every couple of hours right now. Okay. So, say every two hours, every hour?",
+        "keywords": [
+            "hours",
+            "like",
+            "um",
+            "say",
+            "pee"
+        ],
+        "summary": "Um, like, I feel like every couple of hours right now. So, say every two hours, every hour?"
+    },
+    {
+        "segment_id": 9,
+        "start_time": 150.75,
+        "end_time": 169.59,
+        "text": "Every five hours? Yeah, like, probably every, probably every like two, maybe, maybe every hour, I get certain times, is a day. Do you wake up at night? Do you pee? Uh, like, it doesn't wake me up, but it's like I wake up because I hear something, then I'll be like, oh, I think I should go to the bathroom.",
+        "keywords": [
+            "like",
+            "wake",
+            "probably",
+            "maybe",
+            "yeah"
+        ],
+        "summary": "Yeah, like, probably every, probably every like two, maybe, maybe every hour, I get certain times, is a day. Uh, like, it doesn't wake me up, but it's like I wake up because I hear something, then I'll be like, oh, I think I should go to the bathroom."
+    },
+    {
+        "segment_id": 10,
+        "start_time": 169.59,
+        "end_time": 188.44,
+        "text": "Yeah. Do you feel like you have control over when you are going to the bathroom? Is it difficult for you to hold it in? Oh, I think control is just like uncomfortable, right? I see, I see.",
+        "keywords": [
+            "like",
+            "control",
+            "think",
+            "uncomfortable",
+            "yeah"
+        ],
+        "summary": "Do you feel like you have control over when you are going to the bathroom? Oh, I think control is just like uncomfortable, right?"
+    },
+    {
+        "segment_id": 11,
+        "start_time": 188.44,
+        "end_time": 207.28,
+        "text": "So, you have your nerve frequency, but do you, do you feel like, so you said that you can control it, you don't, you don't feel like you need to run to the bathroom or you'll pee in your pants? No, I don't feel like that. Okay. Do you have any pain when you're peein'? No.",
+        "keywords": [
+            "feel",
+            "don",
+            "like",
+            "said",
+            "pants"
+        ],
+        "summary": "So, you have your nerve frequency, but do you, do you feel like, so you said that you can control it, you don't, you don't feel like you need to run to the bathroom or you'll pee in your pants? No, I don't feel like that."
+    },
+    {
+        "segment_id": 12,
+        "start_time": 207.28,
+        "end_time": 226.12,
+        "text": "No, okay, all right. Do you feel like you've been more thirsty recently? Why do you feel you've been drinking more? More water. I think just because I was getting, I was like throwing up, I just feel like I was a little dehydrated.",
+        "keywords": [
+            "like",
+            "feel",
+            "ve",
+            "just",
+            "thirsty"
+        ],
+        "summary": "Do you feel like you've been more thirsty recently? I think just because I was getting, I was like throwing up, I just feel like I was a little dehydrated."
+    },
+    {
+        "segment_id": 13,
+        "start_time": 226.12,
+        "end_time": 244.97,
+        "text": "Wow. I see, okay. Have you, other than the nausea and vomiting, have you had any other sort of stomach related issues? Any belly pain or changes in your bowel movement? Oh, no, I don't think so.",
+        "keywords": [
+            "wow",
+            "vomiting",
+            "think",
+            "stomach",
+            "sort"
+        ],
+        "summary": "Have you, other than the nausea and vomiting, have you had any other sort of stomach related issues? Any belly pain or changes in your bowel movement?"
+    },
+    {
+        "segment_id": 14,
+        "start_time": 244.97,
+        "end_time": 263.81,
+        "text": "Well, my stomach, it's been like, it feels like a little crampy. I thought it maybe could be my period, so it's like, not on my period. When did you last have your period? Oh, well, let me think. Like six weeks ago, I guess that would be, I don't really like to distract.",
+        "keywords": [
+            "like",
+            "period",
+            "thought",
+            "weeks",
+            "stomach"
+        ],
+        "summary": "Well, my stomach, it's been like, it feels like a little crampy. Like six weeks ago, I guess that would be, I don't really like to distract."
+    },
+    {
+        "segment_id": 15,
+        "start_time": 263.81,
+        "end_time": 282.66,
+        "text": "Okay, okay. Do you know if you get your periods regularly or are your periods irregular? I think they're usually pretty regular, but I don't calculate it. Like to the day. Sure, yeah.",
+        "keywords": [
+            "periods",
+            "okay",
+            "yeah",
+            "sure",
+            "regularly"
+        ],
+        "summary": "Do you know if you get your periods regularly or are your periods irregular? I think they're usually pretty regular, but I don't calculate it."
+    },
+    {
+        "segment_id": 16,
+        "start_time": 282.66,
+        "end_time": 301.5,
+        "text": "Is it normal for you to go six weeks without a period? Something to think of it, I don't think so. All right. Okay. I'll just ask you a couple more questions about your symptoms.",
+        "keywords": [
+            "think",
+            "weeks",
+            "symptoms",
+            "right",
+            "questions"
+        ],
+        "summary": "Is it normal for you to go six weeks without a period? I'll just ask you a couple more questions about your symptoms."
+    },
+    {
+        "segment_id": 17,
+        "start_time": 301.5,
+        "end_time": 320.34,
+        "text": "So I know that you've been nauseous and have laminate a couple of times in the past two weeks, and you have had some cramps in your belly. Have you had any leg symptoms? No, nothing like that. I don't think so. Any headaches?",
+        "keywords": [
+            "weeks",
+            "ve",
+            "times",
+            "think",
+            "symptoms"
+        ],
+        "summary": "So I know that you've been nauseous and have laminate a couple of times in the past two weeks, and you have had some cramps in your belly. I don't think so."
+    },
+    {
+        "segment_id": 18,
+        "start_time": 320.34,
+        "end_time": 339.19,
+        "text": "Um, well, any fevers? No. Muscle aches? I know. Okay.",
+        "keywords": [
+            "um",
+            "okay",
+            "muscle",
+            "know",
+            "fevers"
+        ],
+        "summary": "Um, well, any fevers? Muscle aches?"
+    },
+    {
+        "segment_id": 19,
+        "start_time": 339.19,
+        "end_time": 358.03,
+        "text": "Have you had a cough at all? Oh, no. Okay. And have you noticed any blood in your stools? No.",
+        "keywords": [
+            "stools",
+            "okay",
+            "oh",
+            "noticed",
+            "cough"
+        ],
+        "summary": "Okay. And have you noticed any blood in your stools?"
+    },
+    {
+        "segment_id": 20,
+        "start_time": 358.03,
+        "end_time": 376.87,
+        "text": "No? Okay. Have you, you haven't had any palpitations or chest pain or anything of that sort? No. All right.",
+        "keywords": [
+            "sort",
+            "right",
+            "palpitations",
+            "pain",
+            "okay"
+        ],
+        "summary": "Have you, you haven't had any palpitations or chest pain or anything of that sort? All right."
+    },
+    {
+        "segment_id": 21,
+        "start_time": 376.87,
+        "end_time": 395.72,
+        "text": "Can you tell me about your past medical history and medical issues, medical conditions that you have? Nothing really. Okay. Have you been taking any medications? No, no.",
+        "keywords": [
+            "medical",
+            "tell",
+            "taking",
+            "really",
+            "okay"
+        ],
+        "summary": "Can you tell me about your past medical history and medical issues, medical conditions that you have? Have you been taking any medications?"
+    },
+    {
+        "segment_id": 22,
+        "start_time": 395.72,
+        "end_time": 414.56,
+        "text": "I mean, I've been taking like, like I've been chewing like those ginger things that are supposed to help with nausea, but they weren't really helpful. Let me see. Any allergies? Just like nickel, like in jewelry, for where it's not real jewelry, it'll just get me a rash, but it's not food or like a medication or anything. And a couple of questions about your social history.",
+        "keywords": [
+            "like",
+            "just",
+            "ve",
+            "jewelry",
+            "taking"
+        ],
+        "summary": "I mean, I've been taking like, like I've been chewing like those ginger things that are supposed to help with nausea, but they weren't really helpful. Just like nickel, like in jewelry, for where it's not real jewelry, it'll just get me a rash, but it's not food or like a medication or anything."
+    },
+    {
+        "segment_id": 23,
+        "start_time": 414.56,
+        "end_time": 433.41,
+        "text": "Who do you currently live with? Like I just, I live with one roommate. And do you currently smoke? No. All right.",
+        "keywords": [
+            "live",
+            "currently",
+            "smoke",
+            "right",
+            "roommate"
+        ],
+        "summary": "Who do you currently live with? Like I just, I live with one roommate."
+    },
+    {
+        "segment_id": 24,
+        "start_time": 433.41,
+        "end_time": 452.25,
+        "text": "I don't smoke. You don't smoke? Okay. Do you consume alcohol? No, I very rarely drink, I only get a headache.",
+        "keywords": [
+            "smoke",
+            "don",
+            "okay",
+            "rarely",
+            "headache"
+        ],
+        "summary": "You don't smoke? No, I very rarely drink, I only get a headache."
+    },
+    {
+        "segment_id": 25,
+        "start_time": 452.25,
+        "end_time": 471.09,
+        "text": "Okay. What was the last drink that you had? Oh, boss, like a month ago probably. Okay. And do you consume any illicit drugs?",
+        "keywords": [
+            "okay",
+            "probably",
+            "oh",
+            "month",
+            "like"
+        ],
+        "summary": "Oh, boss, like a month ago probably. And do you consume any illicit drugs?"
+    },
+    {
+        "segment_id": 26,
+        "start_time": 471.09,
+        "end_time": 489.94,
+        "text": "No. No. All right. Are you currently sexually active? Yeah, just so this is my boyfriend.",
+        "keywords": [
+            "yeah",
+            "sexually",
+            "right",
+            "just",
+            "currently"
+        ],
+        "summary": "Are you currently sexually active? Yeah, just so this is my boyfriend."
+    },
+    {
+        "segment_id": 27,
+        "start_time": 489.94,
+        "end_time": 508.78,
+        "text": "And do you use protection while having sex? Yeah, we just use condoms. Like I used to be on both control, but it always made me feel like I'm sick. So I don't use it anymore. See, okay.",
+        "keywords": [
+            "use",
+            "like",
+            "yeah",
+            "sick",
+            "sex"
+        ],
+        "summary": "Yeah, we just use condoms. Like I used to be on both control, but it always made me feel like I'm sick."
+    },
+    {
+        "segment_id": 28,
+        "start_time": 508.78,
+        "end_time": 527.62,
+        "text": "And let's see. Family history. Do you have any medical conditions that run your family? I don't think so. I guess my dad has high blood pressure.",
+        "keywords": [
+            "family",
+            "run",
+            "pressure",
+            "medical",
+            "think"
+        ],
+        "summary": "Do you have any medical conditions that run your family? I guess my dad has high blood pressure."
+    },
+    {
+        "segment_id": 29,
+        "start_time": 527.62,
+        "end_time": 546.47,
+        "text": "Yeah. I don't think there's anything else. All right. Well, thank you so much for spending time with me today. I think I've gathered all the information that I would have liked.",
+        "keywords": [
+            "think",
+            "yeah",
+            "today",
+            "ve",
+            "time"
+        ],
+        "summary": "Well, thank you so much for spending time with me today. I think I've gathered all the information that I would have liked."
+    },
+    {
+        "segment_id": 30,
+        "start_time": 546.47,
+        "end_time": 565.31,
+        "text": "I will go talk to my attending. We'll come back, maybe ask a couple of questions. And then share the plan with you. Okay, thank you. Well.",
+        "keywords": [
+            "thank",
+            "talk",
+            "share",
+            "questions",
+            "plan"
+        ],
+        "summary": "We'll come back, maybe ask a couple of questions. Okay, thank you."
+    }
+]

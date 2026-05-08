@@ -1,0 +1,422 @@
+[
+    {
+        "segment_id": 1,
+        "start_time": 0.0,
+        "end_time": 21.42,
+        "text": " Hey, doc, I'm a 45 year old man coming in. I'm worried there's a little rash on my leg and getting nervous about. Hi. So I understand you have a rash on your leg. I don't really know what I would call it.",
+        "keywords": [
+            "leg",
+            "rash",
+            "worried",
+            "year",
+            "really"
+        ],
+        "summary": " Hey, doc, I'm a 45 year old man coming in. I'm worried there's a little rash on my leg and getting nervous about."
+    },
+    {
+        "segment_id": 2,
+        "start_time": 21.42,
+        "end_time": 42.84,
+        "text": "That's what I told the nurse when I came in, but it's more of a hurts than anything. Okay. How long has this been going on for? It's been looking weird for about a week, but only, yes, it started hurting yesterday. It sort of looked strange.",
+        "keywords": [
+            "yesterday",
+            "yes",
+            "weird",
+            "week",
+            "told"
+        ],
+        "summary": "That's what I told the nurse when I came in, but it's more of a hurts than anything. It's been looking weird for about a week, but only, yes, it started hurting yesterday."
+    },
+    {
+        "segment_id": 3,
+        "start_time": 42.84,
+        "end_time": 64.26,
+        "text": "I just wanted to come in and get a check out. Okay. When you say it's looking strange, can you tell me what you mean by that? It's swollen. It looks bigger than it did before.",
+        "keywords": [
+            "wanted",
+            "tell",
+            "swollen",
+            "strange",
+            "say"
+        ],
+        "summary": "I just wanted to come in and get a check out. When you say it's looking strange, can you tell me what you mean by that?"
+    },
+    {
+        "segment_id": 4,
+        "start_time": 64.26,
+        "end_time": 85.67,
+        "text": "Mane or if that makes sense. Flowing, okay. Is it red? Yeah, it's red. It's turning more red, kind of in the area around it.",
+        "keywords": [
+            "red",
+            "yeah",
+            "turning",
+            "sense",
+            "okay"
+        ],
+        "summary": "Mane or if that makes sense. It's turning more red, kind of in the area around it."
+    },
+    {
+        "segment_id": 5,
+        "start_time": 85.67,
+        "end_time": 107.09,
+        "text": "I've got these scabs. I've got diabetes, not exactly the best with it. I'm scratching at it, and normally it's not that bad, but this is just strange looking. There's no other words for it. Okay.",
+        "keywords": [
+            "ve",
+            "got",
+            "strange",
+            "scratching",
+            "scabs"
+        ],
+        "summary": "I've got diabetes, not exactly the best with it. I'm scratching at it, and normally it's not that bad, but this is just strange looking."
+    },
+    {
+        "segment_id": 6,
+        "start_time": 107.09,
+        "end_time": 128.51,
+        "text": "Have you ever had anything like this before? I guess you kind of just said that you didn't, but I was double-checked. No, no, nothing. Well, I have occasional ulcers, and sometimes I bang my toe, not exactly the best taking care of my feet, but this is the first time I've gone something that, I don't know, I've just never seen it before. Okay.",
+        "keywords": [
+            "ve",
+            "just",
+            "toe",
+            "ulcers",
+            "taking"
+        ],
+        "summary": "I guess you kind of just said that you didn't, but I was double-checked. Well, I have occasional ulcers, and sometimes I bang my toe, not exactly the best taking care of my feet, but this is the first time I've gone something that, I don't know, I've just never seen it before."
+    },
+    {
+        "segment_id": 7,
+        "start_time": 128.51,
+        "end_time": 149.93,
+        "text": "Do you have any ulcers right now on your feet? I think so. I don't know when the last time I saw the family dog. I think I've got an ulcer on my left heel, but I think it's doing all right. Okay.",
+        "keywords": [
+            "think",
+            "right",
+            "ve",
+            "ulcer",
+            "ulcers"
+        ],
+        "summary": "I don't know when the last time I saw the family dog. I think I've got an ulcer on my left heel, but I think it's doing all right."
+    },
+    {
+        "segment_id": 8,
+        "start_time": 149.93,
+        "end_time": 171.35,
+        "text": "And what leg are you having this problem with right now? It's on my right, it's on my ankle. Okay. How have your sugars been controlled recently? I stopped measuring them.",
+        "keywords": [
+            "right",
+            "sugars",
+            "stopped",
+            "recently",
+            "problem"
+        ],
+        "summary": "And what leg are you having this problem with right now? How have your sugars been controlled recently?"
+    },
+    {
+        "segment_id": 9,
+        "start_time": 171.35,
+        "end_time": 192.77,
+        "text": "Yeah, last time I measured was pretty bad. I ate one C last time, it was like nine or something. I'm trying, I'm trying better with this, as far as it's working out. For sure, I can imagine. So in general, even if you don't know your numbers for your sugars, have you felt worse than usual lately?",
+        "keywords": [
+            "trying",
+            "time",
+            "worse",
+            "yeah",
+            "usual"
+        ],
+        "summary": "Yeah, last time I measured was pretty bad. So in general, even if you don't know your numbers for your sugars, have you felt worse than usual lately?"
+    },
+    {
+        "segment_id": 10,
+        "start_time": 192.77,
+        "end_time": 214.19,
+        "text": "Have you felt run down at all? Yeah, actually I have. Being more, I feel hungry sometimes, I'm tired, but I don't know, it's hard to tell, there's an awful lot going on in my life right now, with kids, but it's hard to tell. I think, yeah, I need to see my family talk. Okay.",
+        "keywords": [
+            "yeah",
+            "tell",
+            "hard",
+            "tired",
+            "talk"
+        ],
+        "summary": "Being more, I feel hungry sometimes, I'm tired, but I don't know, it's hard to tell, there's an awful lot going on in my life right now, with kids, but it's hard to tell. I think, yeah, I need to see my family talk."
+    },
+    {
+        "segment_id": 11,
+        "start_time": 214.19,
+        "end_time": 235.61,
+        "text": "This is definitely a good idea, moving forward, just to make sure you get on top of these things, but I'm glad to see you in today's video. Have a better look at you and make sure that there's nothing super concerning going on. So in addition to this, have you had any other new symptoms? Symptoms, I feel a little hot actually. The swelling started, it also started leaking this white stuff from what used to be a scab, so now it kinda opens, no.",
+        "keywords": [
+            "sure",
+            "make",
+            "symptoms",
+            "started",
+            "white"
+        ],
+        "summary": "This is definitely a good idea, moving forward, just to make sure you get on top of these things, but I'm glad to see you in today's video. The swelling started, it also started leaking this white stuff from what used to be a scab, so now it kinda opens, no."
+    },
+    {
+        "segment_id": 12,
+        "start_time": 235.61,
+        "end_time": 257.02,
+        "text": "Okay, so when did you start feeling hot? Honestly, last 12 hours. Did you take your temperature at all? No, I don't have a thermometer at home. Have you had any difficulty breathing?",
+        "keywords": [
+            "did",
+            "thermometer",
+            "start",
+            "okay",
+            "hours"
+        ],
+        "summary": "Okay, so when did you start feeling hot? No, I don't have a thermometer at home."
+    },
+    {
+        "segment_id": 13,
+        "start_time": 257.02,
+        "end_time": 278.44,
+        "text": "No, no. Any chest pain? No. Have you noticed that your right leg feels any hotter than the left? Yeah, yeah, it does actually.",
+        "keywords": [
+            "yeah",
+            "right",
+            "pain",
+            "noticed",
+            "leg"
+        ],
+        "summary": "Have you noticed that your right leg feels any hotter than the left? Yeah, yeah, it does actually."
+    },
+    {
+        "segment_id": 14,
+        "start_time": 278.44,
+        "end_time": 299.86,
+        "text": "Changing socks the other day, yeah. Have you felt ill recently? Have you been sick at all? So I can just feel in a little crummy last couple of weeks now, not really. Less energy today, but I was up last night thinking about this, yeah, I'm gonna come in and talk.",
+        "keywords": [
+            "yeah",
+            "weeks",
+            "today",
+            "thinking",
+            "talk"
+        ],
+        "summary": "So I can just feel in a little crummy last couple of weeks now, not really. Less energy today, but I was up last night thinking about this, yeah, I'm gonna come in and talk."
+    },
+    {
+        "segment_id": 15,
+        "start_time": 299.86,
+        "end_time": 321.28,
+        "text": "Yeah, you did the right thing, I'm glad that you're in today. Is the pain on your leg worse when you touch it? Yeah, maybe not so much when I touch it, when I walk with it and I start flexing it, it doesn't like that. Okay. Just resting it right now, it feels fine.",
+        "keywords": [
+            "yeah",
+            "touch",
+            "right",
+            "walk",
+            "worse"
+        ],
+        "summary": "Yeah, you did the right thing, I'm glad that you're in today. Yeah, maybe not so much when I touch it, when I walk with it and I start flexing it, it doesn't like that."
+    },
+    {
+        "segment_id": 16,
+        "start_time": 321.28,
+        "end_time": 342.7,
+        "text": "Okay, okay. Okay, well, I'm going to, if I think of any more questions specifically about your leg, I will go back to it, but I'm going to just move on and ask you some questions about your overall health. You've already shared with me that you are diabetic, I do have any other chronic conditions that you live with? Chronic conditions, I've seen a family talk about cholesterol, I want to feel for that. I had asthma as a kid, I was going to an issue now.",
+        "keywords": [
+            "okay",
+            "going",
+            "chronic",
+            "questions",
+            "ve"
+        ],
+        "summary": "Okay, well, I'm going to, if I think of any more questions specifically about your leg, I will go back to it, but I'm going to just move on and ask you some questions about your overall health. Chronic conditions, I've seen a family talk about cholesterol, I want to feel for that."
+    },
+    {
+        "segment_id": 17,
+        "start_time": 342.7,
+        "end_time": 364.12,
+        "text": "And my back, I've had back pain for the last 10 years, but all it really takes for his tile, all that, I feel for that. Okay. Oh, my other question about your leg is have you lost any feeling in it? It kind of, it's like a dull ache sometimes when I touch it, but no, like in the area, the ankle, no, but definitely on my feet, like over the years, I've noticed I feel less on it, compared to what I did in the case of, yeah. That makes sense.",
+        "keywords": [
+            "like",
+            "years",
+            "feel",
+            "ve",
+            "yeah"
+        ],
+        "summary": "And my back, I've had back pain for the last 10 years, but all it really takes for his tile, all that, I feel for that. It kind of, it's like a dull ache sometimes when I touch it, but no, like in the area, the ankle, no, but definitely on my feet, like over the years, I've noticed I feel less on it, compared to what I did in the case of, yeah."
+    },
+    {
+        "segment_id": 18,
+        "start_time": 364.12,
+        "end_time": 385.54,
+        "text": "Okay, so there are a ton of side talks there. So we talked about, you said you have high cholesterol. So what medications are you taking? I'm taking four pills right now. One of them is for the cholesterol, I think it's called Rasuva, Rasuva Staten.",
+        "keywords": [
+            "taking",
+            "cholesterol",
+            "rasuva",
+            "talks",
+            "talked"
+        ],
+        "summary": "So we talked about, you said you have high cholesterol. One of them is for the cholesterol, I think it's called Rasuva, Rasuva Staten."
+    },
+    {
+        "segment_id": 19,
+        "start_time": 385.54,
+        "end_time": 406.95,
+        "text": "The other three, they're all diabetes medications, but I don't remember. That form is one of them. Cidastubes, I haven't missed one out until later. Okay, are you on insulin right now? No.",
+        "keywords": [
+            "right",
+            "remember",
+            "okay",
+            "missed",
+            "medications"
+        ],
+        "summary": "The other three, they're all diabetes medications, but I don't remember. Cidastubes, I haven't missed one out until later."
+    },
+    {
+        "segment_id": 20,
+        "start_time": 406.95,
+        "end_time": 428.37,
+        "text": "Are you on any, are in these medications new? Do you have any new reasons? No, no, I've had them for about a year now. Do you have any allergies? Yeah, I do actually, I'm a cylinder, you take that.",
+        "keywords": [
+            "new",
+            "year",
+            "yeah",
+            "ve",
+            "reasons"
+        ],
+        "summary": "No, no, I've had them for about a year now. Yeah, I do actually, I'm a cylinder, you take that."
+    },
+    {
+        "segment_id": 21,
+        "start_time": 428.37,
+        "end_time": 449.79,
+        "text": "And what happens when you take a ton of insulin? It's been a while as a kid, apparently like face got loaded. Just have a hard time breathing, so. Okay, well, we'll make sure that we don't give you that. Can you tell me if you've had any previous surgery?",
+        "keywords": [
+            "ve",
+            "ton",
+            "time",
+            "tell",
+            "surgery"
+        ],
+        "summary": "It's been a while as a kid, apparently like face got loaded. Okay, well, we'll make sure that we don't give you that."
+    },
+    {
+        "segment_id": 22,
+        "start_time": 449.79,
+        "end_time": 471.21,
+        "text": "Yeah, what was it? I had my sinuses, I had some pretty bad sinusitis in my teeth, they went in, kind of carved a little bit of space out. Okay, okay. Is that the only surgery that you've had? Yeah.",
+        "keywords": [
+            "yeah",
+            "okay",
+            "went",
+            "teeth",
+            "surgery"
+        ],
+        "summary": "I had my sinuses, I had some pretty bad sinusitis in my teeth, they went in, kind of carved a little bit of space out. Is that the only surgery that you've had?"
+    },
+    {
+        "segment_id": 23,
+        "start_time": 471.21,
+        "end_time": 492.63,
+        "text": "And can you, how many of you have any family history of diabetes, skin problems, anything else that stands out to you? Yep, on the side of the family, pretty much everyone has diabetes, high blood pressure, cholesterol. That side of the family is pretty healthy. I think maybe one of my aunts had lung cancer, which is a pretty big smoke too. Okay.",
+        "keywords": [
+            "pretty",
+            "family",
+            "diabetes",
+            "think",
+            "yep"
+        ],
+        "summary": "Yep, on the side of the family, pretty much everyone has diabetes, high blood pressure, cholesterol. I think maybe one of my aunts had lung cancer, which is a pretty big smoke too."
+    },
+    {
+        "segment_id": 24,
+        "start_time": 492.63,
+        "end_time": 514.05,
+        "text": "I'm just gonna ask you a few questions about your lifestyle. So you said that you have children? Yeah, I do. Do you live in town, do you live with your kids? I live in town, I see my kids for the two weeks.",
+        "keywords": [
+            "live",
+            "town",
+            "kids",
+            "yeah",
+            "said"
+        ],
+        "summary": "I'm just gonna ask you a few questions about your lifestyle. I live in town, I see my kids for the two weeks."
+    },
+    {
+        "segment_id": 25,
+        "start_time": 514.05,
+        "end_time": 535.47,
+        "text": "And what do you do for work? Did I already ask you this? Oh, no, I'm currently unemployed, I'm looking for work. Partially employed, I suppose you should say, after my own business. I see, and what do you do when you are working ideally?",
+        "keywords": [
+            "work",
+            "working",
+            "unemployed",
+            "suppose",
+            "say"
+        ],
+        "summary": "Oh, no, I'm currently unemployed, I'm looking for work. Partially employed, I suppose you should say, after my own business."
+    },
+    {
+        "segment_id": 26,
+        "start_time": 535.47,
+        "end_time": 556.89,
+        "text": "Oh, I am working in the county. Oh, okay, cool. And do you smoke? Yeah, I'm just gonna laugh, yeah. I'm stressed, so.",
+        "keywords": [
+            "yeah",
+            "oh",
+            "working",
+            "stressed",
+            "smoke"
+        ],
+        "summary": "Oh, okay, cool. Yeah, I'm just gonna laugh, yeah."
+    },
+    {
+        "segment_id": 27,
+        "start_time": 556.89,
+        "end_time": 578.3,
+        "text": "Do you smoke on average? Last couple of weeks I've been smoking more, I've got two packs a week. Okay, you're hearing alcohol? Yeah, yeah. How much do you typically drink?",
+        "keywords": [
+            "yeah",
+            "ve",
+            "weeks",
+            "week",
+            "typically"
+        ],
+        "summary": "Last couple of weeks I've been smoking more, I've got two packs a week. Okay, you're hearing alcohol?"
+    },
+    {
+        "segment_id": 28,
+        "start_time": 578.3,
+        "end_time": 599.72,
+        "text": "I usually drink about a week, maybe a two-four. So maybe like three for a day or something like that, if you were to average it out? Yeah, if you average it out, I mainly go through the two-four, I'm generally honest. Oh, I see, okay. More so on the weekends, so maybe a little bit more than three for a day, but on those days.",
+        "keywords": [
+            "maybe",
+            "day",
+            "average",
+            "like",
+            "yeah"
+        ],
+        "summary": "Yeah, if you average it out, I mainly go through the two-four, I'm generally honest. More so on the weekends, so maybe a little bit more than three for a day, but on those days."
+    },
+    {
+        "segment_id": 29,
+        "start_time": 599.72,
+        "end_time": 621.14,
+        "text": "Okay. Oh, I see that, that's everything, that's how I, I need to ask you for now, I'd like to get a closer look at this light. Did you have any other questions or concerns before we move forward with physical experience? No, I just wanna get this figured out. Yeah, we'll definitely do that for you.",
+        "keywords": [
+            "yeah",
+            "wanna",
+            "questions",
+            "physical",
+            "okay"
+        ],
+        "summary": "Oh, I see that, that's everything, that's how I, I need to ask you for now, I'd like to get a closer look at this light. Did you have any other questions or concerns before we move forward with physical experience?"
+    },
+    {
+        "segment_id": 30,
+        "start_time": 621.14,
+        "end_time": 642.56,
+        "text": "So yeah, I'm gonna have a look at it, and then after that I will go talk to the doctor that I'm working with, and see what we can do for you. Does that sound good? Thank you, doc, yeah, sounds great. Awesome, okay.",
+        "keywords": [
+            "yeah",
+            "working",
+            "thank",
+            "talk",
+            "sounds"
+        ],
+        "summary": "So yeah, I'm gonna have a look at it, and then after that I will go talk to the doctor that I'm working with, and see what we can do for you. Thank you, doc, yeah, sounds great."
+    }
+]
