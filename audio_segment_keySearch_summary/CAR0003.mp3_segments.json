@@ -1,0 +1,572 @@
+[
+    {
+        "segment_id": 1,
+        "start_time": 0.0,
+        "end_time": 17.41,
+        "text": " What brings you in here today? Um, yeah, I've just been feeling, um, breathless and it's getting worse. So I wanted to check it out. Okay. And when did you, uh, first start feeling breathless?",
+        "keywords": [
+            "um",
+            "feeling",
+            "breathless",
+            "yeah",
+            "ve"
+        ],
+        "summary": "Um, yeah, I've just been feeling, um, breathless and it's getting worse. And when did you, uh, first start feeling breathless?"
+    },
+    {
+        "segment_id": 2,
+        "start_time": 17.41,
+        "end_time": 34.82,
+        "text": "About two months ago. Okay. And did it come on about like gradually through time or, uh, suddenly just happened? Um, I guess gradually. Yeah.",
+        "keywords": [
+            "gradually",
+            "um",
+            "yeah",
+            "time",
+            "suddenly"
+        ],
+        "summary": "And did it come on about like gradually through time or, uh, suddenly just happened? Um, I guess gradually."
+    },
+    {
+        "segment_id": 3,
+        "start_time": 34.82,
+        "end_time": 52.23,
+        "text": "Okay. And do you feel, uh, how often do you feel breathless? I'd say it's worse when I, when I walk more than 50 meters. Um, that's kind of main, that's kind of the main trigger, just exertion. Okay.",
+        "keywords": [
+            "okay",
+            "kind",
+            "main",
+            "feel",
+            "um"
+        ],
+        "summary": "I'd say it's worse when I, when I walk more than 50 meters. Um, that's kind of main, that's kind of the main trigger, just exertion."
+    },
+    {
+        "segment_id": 4,
+        "start_time": 52.23,
+        "end_time": 69.64,
+        "text": "And were you able to walk, um, normally more than 50 meters, uh, before two months? Yeah. Three months ago, I was fine. Okay. And do you have any other symptoms like cough or chest pain?",
+        "keywords": [
+            "months",
+            "yeah",
+            "walk",
+            "uh",
+            "um"
+        ],
+        "summary": "And were you able to walk, um, normally more than 50 meters, uh, before two months? And do you have any other symptoms like cough or chest pain?"
+    },
+    {
+        "segment_id": 5,
+        "start_time": 69.64,
+        "end_time": 87.04,
+        "text": "Um, I have a cough sometimes. Yeah. Okay. But nothing like a constant. No.",
+        "keywords": [
+            "yeah",
+            "um",
+            "okay",
+            "like",
+            "cough"
+        ],
+        "summary": "Um, I have a cough sometimes. But nothing like a constant."
+    },
+    {
+        "segment_id": 6,
+        "start_time": 87.04,
+        "end_time": 104.45,
+        "text": "Okay. Um, do you have any wet cough or any productive cough or you're producing like sputum or phlegm? Yeah. I guess I'd say I have this frothy sputum. Okay.",
+        "keywords": [
+            "sputum",
+            "cough",
+            "okay",
+            "yeah",
+            "wet"
+        ],
+        "summary": "Um, do you have any wet cough or any productive cough or you're producing like sputum or phlegm? I guess I'd say I have this frothy sputum."
+    },
+    {
+        "segment_id": 7,
+        "start_time": 104.45,
+        "end_time": 121.86,
+        "text": "And as your breathlessness, uh, again, I've been getting worse at all over the last two months. I would say so. Yes. Okay. And you mentioned like exertion makes it worse, but anything else like going outside or, uh, exposure to any chemicals that makes it worse?",
+        "keywords": [
+            "worse",
+            "like",
+            "uh",
+            "makes",
+            "yes"
+        ],
+        "summary": "And as your breathlessness, uh, again, I've been getting worse at all over the last two months. And you mentioned like exertion makes it worse, but anything else like going outside or, uh, exposure to any chemicals that makes it worse?"
+    },
+    {
+        "segment_id": 8,
+        "start_time": 121.86,
+        "end_time": 139.27,
+        "text": "I know. I don't think so. And how about, uh, positional changes? Does lying flat at all make it worse? I would say so.",
+        "keywords": [
+            "worse",
+            "uh",
+            "think",
+            "say",
+            "positional"
+        ],
+        "summary": "And how about, uh, positional changes? Does lying flat at all make it worse?"
+    },
+    {
+        "segment_id": 9,
+        "start_time": 139.27,
+        "end_time": 156.68,
+        "text": "Yes. Yeah. I'm basically gasping for air when I laid, laid out. And do you ever find yourself waking up at night in the middle of the night to catch your breath? No.",
+        "keywords": [
+            "night",
+            "laid",
+            "yes",
+            "waking",
+            "yeah"
+        ],
+        "summary": "I'm basically gasping for air when I laid, laid out. And do you ever find yourself waking up at night in the middle of the night to catch your breath?"
+    },
+    {
+        "segment_id": 10,
+        "start_time": 156.68,
+        "end_time": 174.09,
+        "text": "No. Okay. And when do you feel the breathlessness the most? Is it more so during the day or at night? Uh, I guess it's worse at night because I'm laying down.",
+        "keywords": [
+            "night",
+            "worse",
+            "uh",
+            "okay",
+            "laying"
+        ],
+        "summary": "And when do you feel the breathlessness the most? Uh, I guess it's worse at night because I'm laying down."
+    },
+    {
+        "segment_id": 11,
+        "start_time": 174.09,
+        "end_time": 191.5,
+        "text": "Okay. All right. And, uh, in terms of how many lights of stairs you can climb before you start feeling breathless, do you have a number? I'd say like three, four. Three or four steps.",
+        "keywords": [
+            "uh",
+            "terms",
+            "steps",
+            "start",
+            "stairs"
+        ],
+        "summary": "And, uh, in terms of how many lights of stairs you can climb before you start feeling breathless, do you have a number? I'd say like three, four."
+    },
+    {
+        "segment_id": 12,
+        "start_time": 191.5,
+        "end_time": 208.91,
+        "text": "Okay. And was there anything, um, new that happened in your life, uh, recently, any new medical diagnosis recently or in, or in travel that happened before you started having these symptoms? No, nothing like that. And prior to the two months, have you ever had any similar experiences? Parts two months?",
+        "keywords": [
+            "happened",
+            "new",
+            "recently",
+            "months",
+            "travel"
+        ],
+        "summary": "And was there anything, um, new that happened in your life, uh, recently, any new medical diagnosis recently or in, or in travel that happened before you started having these symptoms? And prior to the two months, have you ever had any similar experiences?"
+    },
+    {
+        "segment_id": 13,
+        "start_time": 208.91,
+        "end_time": 226.31,
+        "text": "No. No. Okay. And, uh, does anything make it better? Like any positional changes, um, makes the breathlessness go away?",
+        "keywords": [
+            "um",
+            "uh",
+            "positional",
+            "okay",
+            "makes"
+        ],
+        "summary": "And, uh, does anything make it better? Like any positional changes, um, makes the breathlessness go away?"
+    },
+    {
+        "segment_id": 14,
+        "start_time": 226.31,
+        "end_time": 243.72,
+        "text": "Um, I guess when I, I'm not laying down or when I'm laying down, I try to add pillows, stack pillows so that it gets better. Okay. And, uh, are you having any other symptoms like, um, soft throat, runny nose, uh, chest pain, midginess, anything like that? No. No.",
+        "keywords": [
+            "um",
+            "uh",
+            "laying",
+            "like",
+            "pillows"
+        ],
+        "summary": "Um, I guess when I, I'm not laying down or when I'm laying down, I try to add pillows, stack pillows so that it gets better. And, uh, are you having any other symptoms like, um, soft throat, runny nose, uh, chest pain, midginess, anything like that?"
+    },
+    {
+        "segment_id": 15,
+        "start_time": 243.72,
+        "end_time": 261.13,
+        "text": "Okay. Have you, uh, recently traveled outside of the country? No. Have you recently had any surgeries? Uh, no, recent surgeries.",
+        "keywords": [
+            "uh",
+            "surgeries",
+            "recently",
+            "traveled",
+            "recent"
+        ],
+        "summary": "Have you, uh, recently traveled outside of the country? Uh, no, recent surgeries."
+    },
+    {
+        "segment_id": 16,
+        "start_time": 261.13,
+        "end_time": 278.54,
+        "text": "No. Any headache, nausea, or vomiting? Um, no. Okay. Any fevers or chills or night sweats?",
+        "keywords": [
+            "vomiting",
+            "um",
+            "sweats",
+            "okay",
+            "night"
+        ],
+        "summary": "Any headache, nausea, or vomiting? Any fevers or chills or night sweats?"
+    },
+    {
+        "segment_id": 17,
+        "start_time": 278.54,
+        "end_time": 295.95,
+        "text": "No. Do you feel increasingly fatigued throughout the day? Uh, no. Ah, yes. I'd say so.",
+        "keywords": [
+            "yes",
+            "uh",
+            "say",
+            "increasingly",
+            "feel"
+        ],
+        "summary": "Do you feel increasingly fatigued throughout the day? Ah, yes."
+    },
+    {
+        "segment_id": 18,
+        "start_time": 295.95,
+        "end_time": 313.36,
+        "text": "Yeah. And any changes in your bowel movement at all? No. Okay. Um, any chest pain at all within the last two months?",
+        "keywords": [
+            "yeah",
+            "um",
+            "pain",
+            "okay",
+            "movement"
+        ],
+        "summary": "And any changes in your bowel movement at all? Um, any chest pain at all within the last two months?"
+    },
+    {
+        "segment_id": 19,
+        "start_time": 313.36,
+        "end_time": 330.77,
+        "text": "Uh, no, no chest pain. Any swelling in your, um, in your legs, ankles or in your hands and arms? Hmm. There are some swelling. Okay.",
+        "keywords": [
+            "swelling",
+            "um",
+            "uh",
+            "pain",
+            "okay"
+        ],
+        "summary": "Uh, no, no chest pain. Any swelling in your, um, in your legs, ankles or in your hands and arms?"
+    },
+    {
+        "segment_id": 20,
+        "start_time": 330.77,
+        "end_time": 348.18,
+        "text": "And, uh, where do you, where are you getting the swelling? Uh, around my legs. Okay. And how, uh, when did you first feel this? Around the same time actually, two months ago.",
+        "keywords": [
+            "uh",
+            "time",
+            "swelling",
+            "okay",
+            "months"
+        ],
+        "summary": "And how, uh, when did you first feel this? Around the same time actually, two months ago."
+    },
+    {
+        "segment_id": 21,
+        "start_time": 348.18,
+        "end_time": 365.58,
+        "text": "Okay. Have you noticed any kind of fevers at all? No. Okay. Have you been in contact with anyone that has been ill recently?",
+        "keywords": [
+            "okay",
+            "recently",
+            "noticed",
+            "kind",
+            "ill"
+        ],
+        "summary": "Have you noticed any kind of fevers at all? Have you been in contact with anyone that has been ill recently?"
+    },
+    {
+        "segment_id": 22,
+        "start_time": 365.58,
+        "end_time": 382.99,
+        "text": "No. No. And have you been coughing up any blood at all? No. Any weight loss?",
+        "keywords": [
+            "weight",
+            "loss",
+            "coughing",
+            "blood"
+        ],
+        "summary": "And have you been coughing up any blood at all? Any weight loss?"
+    },
+    {
+        "segment_id": 23,
+        "start_time": 382.99,
+        "end_time": 400.4,
+        "text": "No. Any night sweats or, um, chills? No. Any, uh, apart from the breathlessness of laying down, any other issues with your sleep? Uh, no.",
+        "keywords": [
+            "uh",
+            "um",
+            "sweats",
+            "sleep",
+            "night"
+        ],
+        "summary": "Any night sweats or, um, chills? Any, uh, apart from the breathlessness of laying down, any other issues with your sleep?"
+    },
+    {
+        "segment_id": 24,
+        "start_time": 400.4,
+        "end_time": 417.81,
+        "text": "Any changes in your appetite? No. Have you had any recent infections, like a cold at all? No. Any exposure to tuberculosis in the past?",
+        "keywords": [
+            "tuberculosis",
+            "recent",
+            "past",
+            "like",
+            "infections"
+        ],
+        "summary": "Have you had any recent infections, like a cold at all? Any exposure to tuberculosis in the past?"
+    },
+    {
+        "segment_id": 25,
+        "start_time": 417.81,
+        "end_time": 435.22,
+        "text": "Not that I know of. Any exposure to fumes or dust, uh, within your home or work environment? No. Any animals or pets in the house? Nope.",
+        "keywords": [
+            "work",
+            "uh",
+            "pets",
+            "nope",
+            "know"
+        ],
+        "summary": "Any exposure to fumes or dust, uh, within your home or work environment? Any animals or pets in the house?"
+    },
+    {
+        "segment_id": 26,
+        "start_time": 435.22,
+        "end_time": 452.63,
+        "text": "No. Okay. And in terms of your past medical history, uh, has anyone told you that you have anything like COPD or any cardiovascular issues, uh, like high blood pressure, cholesterol? Um, so, yeah, so I have high blood pressure, diabetes and high cholesterol. Okay.",
+        "keywords": [
+            "high",
+            "uh",
+            "cholesterol",
+            "blood",
+            "like"
+        ],
+        "summary": "And in terms of your past medical history, uh, has anyone told you that you have anything like COPD or any cardiovascular issues, uh, like high blood pressure, cholesterol? Um, so, yeah, so I have high blood pressure, diabetes and high cholesterol."
+    },
+    {
+        "segment_id": 27,
+        "start_time": 452.63,
+        "end_time": 470.04,
+        "text": "And, uh, do you take any medications for this? Yep. So I take aspirin, ramapool and cinnamostatin. Okay. And have you ever had any chest pain or heart attack in the past?",
+        "keywords": [
+            "yep",
+            "uh",
+            "ramapool",
+            "past",
+            "pain"
+        ],
+        "summary": "So I take aspirin, ramapool and cinnamostatin. And have you ever had any chest pain or heart attack in the past?"
+    },
+    {
+        "segment_id": 28,
+        "start_time": 470.04,
+        "end_time": 487.45,
+        "text": "Yeah, actually, I had a heart attack four years ago. Okay. And, uh, do you remember what they did for your heart attack? Um, something like a stent or something. Okay.",
+        "keywords": [
+            "okay",
+            "heart",
+            "attack",
+            "yeah",
+            "years"
+        ],
+        "summary": "Yeah, actually, I had a heart attack four years ago. And, uh, do you remember what they did for your heart attack?"
+    },
+    {
+        "segment_id": 29,
+        "start_time": 487.45,
+        "end_time": 504.85,
+        "text": "And since then you've been on these medications? Yes. Okay. And after, um, they managed your heart attack, have you ever had similar symptoms, when you had your heart attack? Uh, no, no.",
+        "keywords": [
+            "heart",
+            "attack",
+            "yes",
+            "um",
+            "ve"
+        ],
+        "summary": "And since then you've been on these medications? And after, um, they managed your heart attack, have you ever had similar symptoms, when you had your heart attack?"
+    },
+    {
+        "segment_id": 30,
+        "start_time": 504.85,
+        "end_time": 522.26,
+        "text": "Okay. Do you have any allergies during medications? No. Any environmental allergies? No.",
+        "keywords": [
+            "allergies",
+            "okay",
+            "medications",
+            "environmental"
+        ],
+        "summary": "Do you have any allergies during medications? Any environmental allergies?"
+    },
+    {
+        "segment_id": 31,
+        "start_time": 522.26,
+        "end_time": 539.67,
+        "text": "Okay. And have you previously had any surgeries in the past? Um, I guess with stenting. Just stenting? And, uh, apart from that idea, had any other previous hospitalization?",
+        "keywords": [
+            "stenting",
+            "um",
+            "uh",
+            "surgeries",
+            "previously"
+        ],
+        "summary": "And have you previously had any surgeries in the past? And, uh, apart from that idea, had any other previous hospitalization?"
+    },
+    {
+        "segment_id": 32,
+        "start_time": 539.67,
+        "end_time": 557.08,
+        "text": "No. Um, any family history of, uh, any cancers or heart attacks? Um, my father died of a heart attack when he was 60. Okay. And currently, um, do you work at all?",
+        "keywords": [
+            "um",
+            "heart",
+            "work",
+            "uh",
+            "okay"
+        ],
+        "summary": "Um, any family history of, uh, any cancers or heart attacks? Um, my father died of a heart attack when he was 60."
+    },
+    {
+        "segment_id": 33,
+        "start_time": 557.08,
+        "end_time": 574.49,
+        "text": "I do. Um, I work as a cashier. Okay. And has the shortness of breath been affecting your daily routine at home or at work at all? Yeah, I would say so.",
+        "keywords": [
+            "work",
+            "yeah",
+            "um",
+            "shortness",
+            "say"
+        ],
+        "summary": "Um, I work as a cashier. And has the shortness of breath been affecting your daily routine at home or at work at all?"
+    },
+    {
+        "segment_id": 34,
+        "start_time": 574.49,
+        "end_time": 591.9,
+        "text": "It's been hard to make it to work, um, and then standing around all day, or if I have to go help out with something and exert myself too much, I get short breath. Okay. And at, uh, at home, do you currently live with anyone or do you live by yourself? Uh, I live by myself. And do you live in an apartment or a house?",
+        "keywords": [
+            "live",
+            "uh",
+            "work",
+            "standing",
+            "um"
+        ],
+        "summary": "It's been hard to make it to work, um, and then standing around all day, or if I have to go help out with something and exert myself too much, I get short breath. And at, uh, at home, do you currently live with anyone or do you live by yourself?"
+    },
+    {
+        "segment_id": 35,
+        "start_time": 591.9,
+        "end_time": 609.31,
+        "text": "I live in an apartment. And are there any, uh, exposures like dust or mold or asbestos in your, uh, in your home environment? No. Okay. And currently, uh, do you smoke?",
+        "keywords": [
+            "uh",
+            "smoke",
+            "okay",
+            "mold",
+            "live"
+        ],
+        "summary": "And are there any, uh, exposures like dust or mold or asbestos in your, uh, in your home environment? And currently, uh, do you smoke?"
+    },
+    {
+        "segment_id": 36,
+        "start_time": 609.31,
+        "end_time": 626.72,
+        "text": "Uh, not right now. I used to smoke, um, I used to smoke 10 a day for like 40 years. Okay. Okay. And do you use any recreational drugs like marijuana?",
+        "keywords": [
+            "used",
+            "smoke",
+            "okay",
+            "like",
+            "um"
+        ],
+        "summary": "I used to smoke, um, I used to smoke 10 a day for like 40 years. And do you use any recreational drugs like marijuana?"
+    },
+    {
+        "segment_id": 37,
+        "start_time": 626.72,
+        "end_time": 644.12,
+        "text": "No. Uh, any, uh, alcohol? No. And in terms of, uh, your daily routine, do you feel that you get three meals a day while balanced diet? Um, I would say well balanced.",
+        "keywords": [
+            "uh",
+            "balanced",
+            "terms",
+            "um",
+            "say"
+        ],
+        "summary": "And in terms of, uh, your daily routine, do you feel that you get three meals a day while balanced diet? Um, I would say well balanced."
+    },
+    {
+        "segment_id": 38,
+        "start_time": 644.12,
+        "end_time": 661.53,
+        "text": "Um, I'm trying to eat healthier, but it doesn't always happen. Okay. And how about exercise? Do you find, um, that your exercise levels or activity levels have gone down in the last two months? Yes.",
+        "keywords": [
+            "um",
+            "exercise",
+            "levels",
+            "yes",
+            "trying"
+        ],
+        "summary": "Um, I'm trying to eat healthier, but it doesn't always happen. Do you find, um, that your exercise levels or activity levels have gone down in the last two months?"
+    },
+    {
+        "segment_id": 39,
+        "start_time": 661.53,
+        "end_time": 678.94,
+        "text": "Okay. All right. Is there any other, uh, questions or concerns that you have or something that may have missed that you're asking today? Um, no, I don't think so. Okay.",
+        "keywords": [
+            "okay",
+            "uh",
+            "um",
+            "today",
+            "think"
+        ],
+        "summary": "Is there any other, uh, questions or concerns that you have or something that may have missed that you're asking today? Um, no, I don't think so."
+    },
+    {
+        "segment_id": 40,
+        "start_time": 678.94,
+        "end_time": 696.35,
+        "text": "So based on what we talked about, uh, from your swelling as well as, um, breathlessness, um, while laying down in your past history, uh, of a heart attack and high cholesterol, it may be likely with the medications you're on, uh, as well as your history that you might be having. It's called a congestive heart failure. Okay. Um, we will need to do further investigations, um, to determine if this, that is what it is. And if we need to get you on something like, um, um, like, um, like, lacyx or diuretic to get rid of some of the fluid, uh, that's building up in your body, which may be caused by heart failure.",
+        "keywords": [
+            "um",
+            "uh",
+            "like",
+            "heart",
+            "need"
+        ],
+        "summary": "So based on what we talked about, uh, from your swelling as well as, um, breathlessness, um, while laying down in your past history, uh, of a heart attack and high cholesterol, it may be likely with the medications you're on, uh, as well as your history that you might be having. And if we need to get you on something like, um, um, like, um, like, lacyx or diuretic to get rid of some of the fluid, uh, that's building up in your body, which may be caused by heart failure."
+    },
+    {
+        "segment_id": 41,
+        "start_time": 696.35,
+        "end_time": 713.76,
+        "text": "So we'll do some investigations and then, uh, go from there.",
+        "keywords": [
+            "uh",
+            "ll",
+            "investigations"
+        ],
+        "summary": "So we'll do some investigations and then, uh, go from there."
+    }
+]

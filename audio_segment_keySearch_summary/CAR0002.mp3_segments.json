@@ -1,0 +1,310 @@
+[
+    {
+        "segment_id": 1,
+        "start_time": 0.0,
+        "end_time": 24.09,
+        "text": " what brings you here today? Yeah, I have this paid in my test. Okay, and where is the pain exactly? It's just over on the left side. Okay, and when did this pain start?",
+        "keywords": [
+            "okay",
+            "pain",
+            "yeah",
+            "today",
+            "start"
+        ],
+        "summary": "Yeah, I have this paid in my test. Okay, and when did this pain start?"
+    },
+    {
+        "segment_id": 2,
+        "start_time": 24.09,
+        "end_time": 48.19,
+        "text": "It started just 30 minutes ago. Okay, and did it just come on randomly or were you doing something strenuous? I was just showing the driveway and it came on. Okay, and has that pain been getting worse at all over the last half an hour? No, it just came on suddenly and it's...",
+        "keywords": [
+            "just",
+            "okay",
+            "came",
+            "worse",
+            "started"
+        ],
+        "summary": "Okay, and did it just come on randomly or were you doing something strenuous? Okay, and has that pain been getting worse at all over the last half an hour?"
+    },
+    {
+        "segment_id": 3,
+        "start_time": 48.19,
+        "end_time": 72.28,
+        "text": "Sorry, yeah, the pain has been there this whole time and it's gotten worse ever since it started. Okay, and how would you describe the pain? Is it kind of like an aching pain or is it a sharp or tightness kind of pain? How would you describe it? It feels dull, I feel like there's a lot of pressure on my chest.",
+        "keywords": [
+            "pain",
+            "like",
+            "kind",
+            "time",
+            "worse"
+        ],
+        "summary": "Sorry, yeah, the pain has been there this whole time and it's gotten worse ever since it started. It feels dull, I feel like there's a lot of pressure on my chest."
+    },
+    {
+        "segment_id": 4,
+        "start_time": 72.28,
+        "end_time": 96.37,
+        "text": "And how do you rate the pain right now along the scale of zero to 10, zero being the least someone opinion-ful in your life, 10 being the worst? Seven. Seven, okay. Have you had any similar episodes before? No, I've never had any chest pain before.",
+        "keywords": [
+            "zero",
+            "seven",
+            "10",
+            "pain",
+            "similar"
+        ],
+        "summary": "And how do you rate the pain right now along the scale of zero to 10, zero being the least someone opinion-ful in your life, 10 being the worst? No, I've never had any chest pain before."
+    },
+    {
+        "segment_id": 5,
+        "start_time": 96.37,
+        "end_time": 120.47,
+        "text": "Okay, and is the pain just staying in the region left chest area that you mentioned or is it traveling to another part of your body? No, I'm kind of just feeling it right here on the left side. Okay, is there anything that you do that makes the patient either get worse or go away or get better? I think it's a bit worse if I'm moving around or when I was walking in here, I think it made it a bit worse, but nothing seems to make it any better since it's starting. Okay, and does it change at all from you changing positions like if you're standing up versus sitting down or laying down?",
+        "keywords": [
+            "worse",
+            "okay",
+            "better",
+            "think",
+            "just"
+        ],
+        "summary": "Okay, and is the pain just staying in the region left chest area that you mentioned or is it traveling to another part of your body? Okay, and does it change at all from you changing positions like if you're standing up versus sitting down or laying down?"
+    },
+    {
+        "segment_id": 6,
+        "start_time": 120.47,
+        "end_time": 144.56,
+        "text": "I think it's a little bit worse when I'm laying down. Okay, and other than the pain that you've been having, any other symptoms like a cough or difficulty breathing or any pain when you're breathing in or out? I've felt a little bit short of breath or having difficulty breathing since yesterday when the pain, sorry, since the pain started, but just the difficulty breathing. Okay, and have you recently injured all your chest or surrounding area at all, like from fall or anything like that? I do play rugby and was tackled by another player yesterday, but my chest felt fine after that.",
+        "keywords": [
+            "pain",
+            "breathing",
+            "like",
+            "difficulty",
+            "little"
+        ],
+        "summary": "Okay, and other than the pain that you've been having, any other symptoms like a cough or difficulty breathing or any pain when you're breathing in or out? I've felt a little bit short of breath or having difficulty breathing since yesterday when the pain, sorry, since the pain started, but just the difficulty breathing."
+    },
+    {
+        "segment_id": 7,
+        "start_time": 144.56,
+        "end_time": 168.65,
+        "text": "Okay, so the pain just started hopping around you? Yeah. Have you been traveling at all recently? No, been at home. Okay, has anyone around you been sick at all?",
+        "keywords": [
+            "okay",
+            "yeah",
+            "traveling",
+            "started",
+            "recently"
+        ],
+        "summary": "Okay, so the pain just started hopping around you? Have you been traveling at all recently?"
+    },
+    {
+        "segment_id": 8,
+        "start_time": 168.65,
+        "end_time": 192.74,
+        "text": "No, no. Okay, have you been having any symptoms like nausea or vomiting or any fevers or chills? No nausea or vomiting, but I do feel a little bit hot today. Okay, have you measured your temperature at all? I did and it was 38 degrees.",
+        "keywords": [
+            "vomiting",
+            "nausea",
+            "okay",
+            "today",
+            "symptoms"
+        ],
+        "summary": "Okay, have you been having any symptoms like nausea or vomiting or any fevers or chills? No nausea or vomiting, but I do feel a little bit hot today."
+    },
+    {
+        "segment_id": 9,
+        "start_time": 192.74,
+        "end_time": 216.84,
+        "text": "Okay, and have you been having any kind of swelling in your legs or feet? No swelling in my legs. Okay, have you been feeling tired at all? Like in some of the fatigue? No, my energy has been good.",
+        "keywords": [
+            "swelling",
+            "okay",
+            "legs",
+            "tired",
+            "like"
+        ],
+        "summary": "Okay, and have you been having any kind of swelling in your legs or feet? Okay, have you been feeling tired at all?"
+    },
+    {
+        "segment_id": 10,
+        "start_time": 216.84,
+        "end_time": 240.93,
+        "text": "Okay, have you been having any kind of thumping or palpitations or feel like you're in heart health and racing at all? It does feel like it's beating faster right now. It usually only feels like this when I'm playing sports. Okay, and have you noticed any changes in your skin at all or any rashes? No rashes.",
+        "keywords": [
+            "like",
+            "rashes",
+            "okay",
+            "feel",
+            "thumping"
+        ],
+        "summary": "Okay, have you been having any kind of thumping or palpitations or feel like you're in heart health and racing at all? It does feel like it's beating faster right now."
+    },
+    {
+        "segment_id": 11,
+        "start_time": 240.93,
+        "end_time": 265.02,
+        "text": "Have you had any cough or runny nose or sore throat in terms of those symptoms in the past month? A few weeks ago, my nose is a little runny, but that went away on its own. I haven't had any cough. Okay, and have you been feeling dizzy at all or keeping to? No dizziness and no, I haven't fainted at all.",
+        "keywords": [
+            "runny",
+            "haven",
+            "cough",
+            "nose",
+            "went"
+        ],
+        "summary": "Have you had any cough or runny nose or sore throat in terms of those symptoms in the past month? A few weeks ago, my nose is a little runny, but that went away on its own."
+    },
+    {
+        "segment_id": 12,
+        "start_time": 265.02,
+        "end_time": 289.12,
+        "text": "Okay, just a few more questions. Have you had any diagnosis made by physician or anything like diabetes or high blood pressure? Yeah, I've been told I have high cholesterol and high blood pressure. Okay, and do you take any medications for these things? I do take medications for both blood pressure and cholesterol, resubacatin and licinoprol, and I take a multivitamin.",
+        "keywords": [
+            "blood",
+            "high",
+            "pressure",
+            "medications",
+            "cholesterol"
+        ],
+        "summary": "Have you had any diagnosis made by physician or anything like diabetes or high blood pressure? I do take medications for both blood pressure and cholesterol, resubacatin and licinoprol, and I take a multivitamin."
+    },
+    {
+        "segment_id": 13,
+        "start_time": 289.12,
+        "end_time": 313.21,
+        "text": "Okay, and do you have any allergies to any medications at all? No allergies. Okay, have you at all in the past been hospitalized for any reason? No hospitalizations. Any previous surgeries?",
+        "keywords": [
+            "okay",
+            "allergies",
+            "surgeries",
+            "previous",
+            "reason"
+        ],
+        "summary": "Okay, and do you have any allergies to any medications at all? Okay, have you at all in the past been hospitalized for any reason?"
+    },
+    {
+        "segment_id": 14,
+        "start_time": 313.21,
+        "end_time": 337.3,
+        "text": "No. And within your family, has anyone passed away from a heart attack or any cancer we've got on in the family? No. No, okay. And currently right now, do you live alone?",
+        "keywords": [
+            "family",
+            "ve",
+            "passed",
+            "right",
+            "okay"
+        ],
+        "summary": "And within your family, has anyone passed away from a heart attack or any cancer we've got on in the family? And currently right now, do you live alone?"
+    },
+    {
+        "segment_id": 15,
+        "start_time": 337.3,
+        "end_time": 361.4,
+        "text": "Do you live with someone? Where do you live, like apartment, house? I live in a house with my parents. Okay, and do you currently work? Yeah, I drive a bus for the city.",
+        "keywords": [
+            "live",
+            "house",
+            "yeah",
+            "work",
+            "okay"
+        ],
+        "summary": "Where do you live, like apartment, house? Yeah, I drive a bus for the city."
+    },
+    {
+        "segment_id": 16,
+        "start_time": 361.4,
+        "end_time": 385.49,
+        "text": "Okay. And in your daily routine, or did you say you get enough exercise throughout the week? Yeah, usually on Sundays I'll go for a run. Okay. And how about your diet?",
+        "keywords": [
+            "okay",
+            "week",
+            "usually",
+            "sundays",
+            "yeah"
+        ],
+        "summary": "And in your daily routine, or did you say you get enough exercise throughout the week? Yeah, usually on Sundays I'll go for a run."
+    },
+    {
+        "segment_id": 17,
+        "start_time": 385.49,
+        "end_time": 409.58,
+        "text": "How's your diet? Just regularly? Usually, I feel like it's fairly balanced overall. I might eat out a little bit too often, but try to eat as many vegetables as I can. Okay.",
+        "keywords": [
+            "eat",
+            "usually",
+            "vegetables",
+            "regularly",
+            "overall"
+        ],
+        "summary": "Usually, I feel like it's fairly balanced overall. I might eat out a little bit too often, but try to eat as many vegetables as I can."
+    },
+    {
+        "segment_id": 18,
+        "start_time": 409.58,
+        "end_time": 433.68,
+        "text": "And do you smoke cigarettes at all? I do, yes. Been smoking for the last 20 years, roughly. Okay, how much do you smoke on an average day? About a half a pack to a pack a day.",
+        "keywords": [
+            "smoke",
+            "pack",
+            "day",
+            "yes",
+            "smoking"
+        ],
+        "summary": "Been smoking for the last 20 years, roughly. Okay, how much do you smoke on an average day?"
+    },
+    {
+        "segment_id": 19,
+        "start_time": 433.68,
+        "end_time": 457.77,
+        "text": "Okay. And do you drink? No alcohol. Okay. And any recreational drugs like marijuana?",
+        "keywords": [
+            "okay",
+            "recreational",
+            "marijuana",
+            "like",
+            "drugs"
+        ],
+        "summary": "Okay. And any recreational drugs like marijuana?"
+    },
+    {
+        "segment_id": 20,
+        "start_time": 457.77,
+        "end_time": 481.86,
+        "text": "No marijuana, but I have used crystal meth in the past. Okay, and when was the last time that you used crystal meth? Six days ago. Six days ago? Okay.",
+        "keywords": [
+            "used",
+            "meth",
+            "okay",
+            "crystal",
+            "days"
+        ],
+        "summary": "No marijuana, but I have used crystal meth in the past. Okay, and when was the last time that you used crystal meth?"
+    },
+    {
+        "segment_id": 21,
+        "start_time": 481.86,
+        "end_time": 505.95,
+        "text": "And how often do you use crystal meth? I would say a couple of times a month. A couple of times a month? Okay. And for how long have you been using crystal meth?",
+        "keywords": [
+            "month",
+            "times",
+            "couple",
+            "meth",
+            "crystal"
+        ],
+        "summary": "I would say a couple of times a month. And for how long have you been using crystal meth?"
+    },
+    {
+        "segment_id": 22,
+        "start_time": 505.95,
+        "end_time": 530.05,
+        "text": "For the last seven years. Seven years? Okay. All right, thank you.",
+        "keywords": [
+            "years",
+            "seven",
+            "thank",
+            "right",
+            "okay"
+        ],
+        "summary": "Seven years? All right, thank you."
+    }
+]

@@ -1,0 +1,394 @@
+[
+    {
+        "segment_id": 1,
+        "start_time": 0.0,
+        "end_time": 22.33,
+        "text": " brought you in today? Sure, I'm just having a lot of chest pain and so I thought I should get it checked out. Okay, and before we start could you remind me of your gender and age? Sure, 39, I'm a male. Okay, and so when did this chest pain start?",
+        "keywords": [
+            "start",
+            "sure",
+            "chest",
+            "okay",
+            "pain"
+        ],
+        "summary": "Sure, I'm just having a lot of chest pain and so I thought I should get it checked out. Okay, and so when did this chest pain start?"
+    },
+    {
+        "segment_id": 2,
+        "start_time": 22.33,
+        "end_time": 44.66,
+        "text": "It started last night but it's becoming sharper. Okay, and where is this pain located? It's located on the left side of my chest. Okay, and so how long has it been going on for than if it started last night? So I guess it would be a couple hours now, maybe like eight.",
+        "keywords": [
+            "started",
+            "night",
+            "okay",
+            "located",
+            "pain"
+        ],
+        "summary": "Okay, and so how long has it been going on for than if it started last night? So I guess it would be a couple hours now, maybe like eight."
+    },
+    {
+        "segment_id": 3,
+        "start_time": 44.66,
+        "end_time": 66.98,
+        "text": "Okay, has it been constant throughout that time or changing? I would say it's been pretty constant, yeah. Okay, and how would you describe the pain? People will use words sometimes like sharp, burning, achy. I'd say it's pretty sharp, yeah.",
+        "keywords": [
+            "yeah",
+            "say",
+            "sharp",
+            "pretty",
+            "okay"
+        ],
+        "summary": "People will use words sometimes like sharp, burning, achy. I'd say it's pretty sharp, yeah."
+    },
+    {
+        "segment_id": 4,
+        "start_time": 66.98,
+        "end_time": 89.31,
+        "text": "Sharp, okay. Anything that you have tried since last night that's made the pain better? Not laying down, helps. Okay, so do you find laying down makes the pain worse? Yes, definitely.",
+        "keywords": [
+            "okay",
+            "laying",
+            "pain",
+            "yes",
+            "sharp"
+        ],
+        "summary": "Anything that you have tried since last night that's made the pain better? Okay, so do you find laying down makes the pain worse?"
+    },
+    {
+        "segment_id": 5,
+        "start_time": 89.31,
+        "end_time": 111.64,
+        "text": "Okay, do you find that the pain is radiating anywhere? No. Okay, and is there anything else that makes the pain worse besides laying down? Not that I've noticed, no. Okay, so not like taking a deep breath or anything like that?",
+        "keywords": [
+            "okay",
+            "pain",
+            "like",
+            "worse",
+            "radiating"
+        ],
+        "summary": "Okay, and is there anything else that makes the pain worse besides laying down? Okay, so not like taking a deep breath or anything like that?"
+    },
+    {
+        "segment_id": 6,
+        "start_time": 111.64,
+        "end_time": 133.97,
+        "text": "Maybe taking a deep breath, yeah. Okay, and when the pain started, could you tell me, could you think of anything that you were doing at the time? I mean, I was moving some furniture around, but I've done that before. Okay, so you didn't feel like you hurt yourself when you were doing that? No.",
+        "keywords": [
+            "doing",
+            "okay",
+            "yeah",
+            "ve",
+            "think"
+        ],
+        "summary": "Okay, and when the pain started, could you tell me, could you think of anything that you were doing at the time? Okay, so you didn't feel like you hurt yourself when you were doing that?"
+    },
+    {
+        "segment_id": 7,
+        "start_time": 133.97,
+        "end_time": 156.3,
+        "text": "Okay, and in regards to how severe the pain is on a scale of 1 to 10, 10 being the worst pain you've ever felt, how severe would you say the pain is? I'd say it's like a 7 or 8, it's pretty bad. Okay, and with the pain, do you have any other associated symptoms? I feel a little lightheaded, and I'm having some troubled breathing. Okay, have you had any loss of consciousness?",
+        "keywords": [
+            "pain",
+            "okay",
+            "severe",
+            "say",
+            "10"
+        ],
+        "summary": "Okay, and in regards to how severe the pain is on a scale of 1 to 10, 10 being the worst pain you've ever felt, how severe would you say the pain is? I feel a little lightheaded, and I'm having some troubled breathing."
+    },
+    {
+        "segment_id": 8,
+        "start_time": 156.3,
+        "end_time": 178.62,
+        "text": "No. Okay, have you been experiencing any like racing of the heart? A little bit, yeah. Okay, and have you been sweaty at all? Just from having issues breathing.",
+        "keywords": [
+            "okay",
+            "yeah",
+            "sweaty",
+            "racing",
+            "little"
+        ],
+        "summary": "Okay, have you been experiencing any like racing of the heart? Just from having issues breathing."
+    },
+    {
+        "segment_id": 9,
+        "start_time": 178.62,
+        "end_time": 200.95,
+        "text": "Okay, have you been having issues breathing since the pain started? Yes. Okay, and recently have you had any periods of time where you have been immobilized or you haven't been able to move around a lot? No, no. Okay, and have you been feeling sick at all?",
+        "keywords": [
+            "okay",
+            "yes",
+            "started",
+            "time",
+            "sick"
+        ],
+        "summary": "Okay, have you been having issues breathing since the pain started? Okay, and recently have you had any periods of time where you have been immobilized or you haven't been able to move around a lot?"
+    },
+    {
+        "segment_id": 10,
+        "start_time": 200.95,
+        "end_time": 223.28,
+        "text": "Any infectious symptoms? No. Okay, have you had any nausea or vomiting? No. Any fevers or chills?",
+        "keywords": [
+            "vomiting",
+            "symptoms",
+            "okay",
+            "nausea",
+            "infectious"
+        ],
+        "summary": "Okay, have you had any nausea or vomiting? Any fevers or chills?"
+    },
+    {
+        "segment_id": 11,
+        "start_time": 223.28,
+        "end_time": 245.61,
+        "text": "No. Okay, how about any abdominal pain? No. Any urinary problems? No.",
+        "keywords": [
+            "urinary",
+            "problems",
+            "pain",
+            "okay",
+            "abdominal"
+        ],
+        "summary": "Okay, how about any abdominal pain? Any urinary problems?"
+    },
+    {
+        "segment_id": 12,
+        "start_time": 245.61,
+        "end_time": 267.94,
+        "text": "Or bowel problems? Mm-hmm. Okay, have you had a cough? No. Okay, you haven't brought up any blood?",
+        "keywords": [
+            "okay",
+            "problems",
+            "mm",
+            "hmm",
+            "haven"
+        ],
+        "summary": "Mm-hmm. Okay, you haven't brought up any blood?"
+    },
+    {
+        "segment_id": 13,
+        "start_time": 267.94,
+        "end_time": 290.26,
+        "text": "No. Okay, have you had a wheeze with your difficulty breathing? No, not that I've heard. Okay, any changes to the breath sounds at all, like any noisy breathing? No.",
+        "keywords": [
+            "okay",
+            "breathing",
+            "wheeze",
+            "sounds",
+            "ve"
+        ],
+        "summary": "Okay, have you had a wheeze with your difficulty breathing? Okay, any changes to the breath sounds at all, like any noisy breathing?"
+    },
+    {
+        "segment_id": 14,
+        "start_time": 290.26,
+        "end_time": 312.59,
+        "text": "Well, I guess when I'm really having trouble breathing, yeah. Okay, has anything like this ever happened to you before? No. No, okay. And have you had any night sweats?",
+        "keywords": [
+            "okay",
+            "trouble",
+            "yeah",
+            "sweats",
+            "really"
+        ],
+        "summary": "Well, I guess when I'm really having trouble breathing, yeah. Okay, has anything like this ever happened to you before?"
+    },
+    {
+        "segment_id": 15,
+        "start_time": 312.59,
+        "end_time": 334.92,
+        "text": "No. Alright, and then how about any rashes or skin changes? No rashes, but I guess like my neck seems to be a little swollen. Okay, do you have any neck pain? No.",
+        "keywords": [
+            "rashes",
+            "neck",
+            "swollen",
+            "skin",
+            "pain"
+        ],
+        "summary": "Alright, and then how about any rashes or skin changes? No rashes, but I guess like my neck seems to be a little swollen."
+    },
+    {
+        "segment_id": 16,
+        "start_time": 334.92,
+        "end_time": 357.25,
+        "text": "Okay, have you had any accidents, like a car accident or anything where you really jerked your neck? No. Okay, any trauma at all to the chest or back? No. Okay, so just in regards to past medical history, do you have any prior medical conditions?",
+        "keywords": [
+            "okay",
+            "medical",
+            "trauma",
+            "regards",
+            "really"
+        ],
+        "summary": "Okay, have you had any accidents, like a car accident or anything where you really jerked your neck? Okay, so just in regards to past medical history, do you have any prior medical conditions?"
+    },
+    {
+        "segment_id": 17,
+        "start_time": 357.25,
+        "end_time": 379.58,
+        "text": "No. Okay, any recent hospitalizations? No. Okay, any prior surgeries? No.",
+        "keywords": [
+            "okay",
+            "surgeries",
+            "recent",
+            "prior",
+            "hospitalizations"
+        ],
+        "summary": "Okay, any recent hospitalizations? Okay, any prior surgeries?"
+    },
+    {
+        "segment_id": 18,
+        "start_time": 379.58,
+        "end_time": 401.9,
+        "text": "Okay, do you take any medications regularly, are they prescribed or over the counter? No. Alright, how about any allergies to medications? None. Alright, any immunizations or are they up to date?",
+        "keywords": [
+            "medications",
+            "alright",
+            "regularly",
+            "okay",
+            "prescribed"
+        ],
+        "summary": "Okay, do you take any medications regularly, are they prescribed or over the counter? Alright, any immunizations or are they up to date?"
+    },
+    {
+        "segment_id": 19,
+        "start_time": 401.9,
+        "end_time": 424.23,
+        "text": "They're all up to date. Excellent. Alright, and could you tell me a little bit about your living situation currently? Sure, I live in an apartment by myself. Yep, that's about it.",
+        "keywords": [
+            "yep",
+            "tell",
+            "sure",
+            "situation",
+            "living"
+        ],
+        "summary": "Alright, and could you tell me a little bit about your living situation currently? Sure, I live in an apartment by myself."
+    },
+    {
+        "segment_id": 20,
+        "start_time": 424.23,
+        "end_time": 446.56,
+        "text": "Okay, and how do you support yourself financially? I'm an accountant. Okay, sounds like a pretty stressful job, or that it can be. Do you smoke cigarettes? I do.",
+        "keywords": [
+            "okay",
+            "stressful",
+            "support",
+            "sounds",
+            "smoke"
+        ],
+        "summary": "Okay, and how do you support yourself financially? Okay, sounds like a pretty stressful job, or that it can be."
+    },
+    {
+        "segment_id": 21,
+        "start_time": 446.56,
+        "end_time": 468.89,
+        "text": "Okay, and how much do you smoke? I smoke about a pack a day. Okay, how long have you been smoking for? For the past 10 to 15 years. Okay, and do you smoke cannabis?",
+        "keywords": [
+            "smoke",
+            "okay",
+            "years",
+            "smoking",
+            "past"
+        ],
+        "summary": "Okay, how long have you been smoking for? For the past 10 to 15 years."
+    },
+    {
+        "segment_id": 22,
+        "start_time": 468.89,
+        "end_time": 491.22,
+        "text": "Sometimes. How much marijuana would you smoke per week? Per week? Maybe about 5 milligrams, not that much. Okay, and do you use any other recreational drugs like cocaine, crystal meth, opioids?",
+        "keywords": [
+            "week",
+            "use",
+            "smoke",
+            "recreational",
+            "opioids"
+        ],
+        "summary": "How much marijuana would you smoke per week? Okay, and do you use any other recreational drugs like cocaine, crystal meth, opioids?"
+    },
+    {
+        "segment_id": 23,
+        "start_time": 491.22,
+        "end_time": 513.54,
+        "text": "No. Okay, have you used IV drugs before? No. Okay, and do you drink alcohol? I do.",
+        "keywords": [
+            "okay",
+            "used",
+            "iv",
+            "drugs",
+            "drink"
+        ],
+        "summary": "Okay, have you used IV drugs before? Okay, and do you drink alcohol?"
+    },
+    {
+        "segment_id": 24,
+        "start_time": 513.54,
+        "end_time": 535.87,
+        "text": "Okay, how much alcohol do you drink each week? About, I'd say I'd have like one or two drinks a day, so about 10 drinks a week. Okay, and then briefly could you tell me a little bit about your diet and exercise? Sure, I try to eat healthy for dinner at least, but most of my lunches are I don't. And then in terms of exercise, I try to exercise every other day.",
+        "keywords": [
+            "exercise",
+            "try",
+            "week",
+            "drinks",
+            "day"
+        ],
+        "summary": "Okay, and then briefly could you tell me a little bit about your diet and exercise? Sure, I try to eat healthy for dinner at least, but most of my lunches are I don't."
+    },
+    {
+        "segment_id": 25,
+        "start_time": 535.87,
+        "end_time": 558.2,
+        "text": "I run for about half an hour. Okay, that's great that you've been working on the activity and the diets as well. So has anything like this happened in your family before? No. Okay, has anybody in the family had a heart attack before?",
+        "keywords": [
+            "okay",
+            "family",
+            "ve",
+            "run",
+            "like"
+        ],
+        "summary": "Okay, that's great that you've been working on the activity and the diets as well. Okay, has anybody in the family had a heart attack before?"
+    },
+    {
+        "segment_id": 26,
+        "start_time": 558.2,
+        "end_time": 580.53,
+        "text": "Actually, yes. My father had a heart attack when he was 45. Okay, and anybody in the family has cholesterol problems? I think my father did. I see, okay.",
+        "keywords": [
+            "okay",
+            "father",
+            "yes",
+            "problems",
+            "think"
+        ],
+        "summary": "My father had a heart attack when he was 45. Okay, and anybody in the family has cholesterol problems?"
+    },
+    {
+        "segment_id": 27,
+        "start_time": 580.53,
+        "end_time": 602.86,
+        "text": "And how about anybody in the family have a stroke? No strokes. Okay, and then any cancers in the family? No. Okay.",
+        "keywords": [
+            "family",
+            "okay",
+            "stroke",
+            "strokes",
+            "cancers"
+        ],
+        "summary": "And how about anybody in the family have a stroke? Okay, and then any cancers in the family?"
+    },
+    {
+        "segment_id": 28,
+        "start_time": 602.86,
+        "end_time": 625.18,
+        "text": "Was there anything else that you wanted to tell me about today that on history? No, I don't think so. I think you asked me a question.",
+        "keywords": [
+            "think",
+            "wanted",
+            "today",
+            "tell",
+            "question"
+        ],
+        "summary": "Was there anything else that you wanted to tell me about today that on history? I think you asked me a question."
+    }
+]
